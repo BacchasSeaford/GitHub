@@ -7,138 +7,139 @@ html
 }
 
 *{
-padding:5px;
-margin:5px;
-background-color:#e1dee4;
+  padding:5px;
+  margin:5px;
+  background-color:#e1dee4;
 }
 
 h1
 {
-border-bottom: 1px solid grey;
+  border-bottom: 1px solid grey;
 }
 
 #div1
 {
-width: 750px;
+  width: 750px;
 }
 
 #p1
 {
-font-weight:Bold;
+  font-weight:Bold;
 }
 
 #p2
 {
-font-weight:Bold;
+  font-weight:Bold;
 }
 
 a
 {
-color:grey;
+  color:grey;
 }
 
 #p3
 {
-	font-family:arial;
-	font-size:16px;
-	font-style:italic;
+  font-family:arial;
+  font-size:16px;
+  font-style:italic;
 }
 
 img
 {
-	float:right;
-    -ms-transform: rotate(20deg);
-    -webkit-transform: rotate(20deg); 
-    transform: rotate(20deg);
-	position: relative;
-	height: 135px;
-	width: 175px;
-	padding-right:75px;
+  float:right;
+  -ms-transform: rotate(20deg);
+  -webkit-transform: rotate(20deg); 
+  transform: rotate(20deg);
+  position: relative;
+  height: 135px;
+  width: 175px;
+  padding-right:75px;
 }
 
 #div2
 {
-	height: 100px;
-	width: 100px;
-	padding-left:78px;
-	padding-right:13px;
-	border-right: 1px solid grey;
+   height: 100px;
+   width: 100px;
+   padding-left:78px;
+   padding-right:13px;
+   border-right: 1px solid grey;
 }
 
 #div3
 {
-	float: right;
-	clear: Both;
-	text-align:left;
-	padding-right:auto;
-	width: 80%;
+  float: right;
+  clear: Both;
+  text-align:left;
+  padding-right:auto;
+  width: 80%;
 }
 
 #div4
 {
-	height: 150px;
-	width: 100px;
-	padding-left:78px;
-	padding-right:13px;
-	border-right: 1px solid grey;
+   height: 150px;
+   width: 100px;
+   padding-left:78px;
+   padding-right:13px;
+   border-right: 1px solid grey;
 }
 
 #div5 
 {
-	float: right;
-	clear: Both;
-	padding-right:auto;
-	width: 80%;
+    float: right;
+    clear: Both;
+    padding-right:auto;
+    width: 80%;
 }
 	
 #div6 
 {
-	    height: 150px;
-		width: 100px;
-		padding-left:78px;
-		padding-right:13px;
-		border-right: 1px solid grey;
+    height: 150px;
+    width: 100px;
+    padding-left:78px;
+    padding-right:13px;
+    border-right: 1px solid grey;
 }
 
 #div7
 {
-	float: right;
-	clear: Both;
-	padding-right:auto;
-	width: 80%;
+   float: right;
+   clear: Both;
+   padding-right:auto;
+   width: 80%;
 }
 	
 #p4
 {
-font-size:16px;
-font-weight: Bold;
+   font-size:16px;
+   font-weight: Bold;
 }
 
 #p7
 {
-	font-size:16px;
-	font-weight: Bold;
+  font-size:16px;
+  font-weight: Bold;
 }
 
 #p9
 {
-font-size:16px;
-font-weight: Bold;
+  font-size:16px;
+  font-weight: Bold;
 }
 
 #p11
 {
-font-size:12px;
-font-style:italic;
+  font-size:12px;
+  font-style:italic;
 }
 
-li{
-margin-left: 22px;
+li
+{
+  margin-left: 22px;
 }
 
 .bclas
 {
-font-size:17px;
-font-weight: Bold;
-font-style:normal;
+  font-size:17px;
+  font-weight: Bold;
+  font-style:normal;
 }
