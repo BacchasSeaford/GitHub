@@ -54,6 +54,7 @@ img
 	height: 135px;
 	width: 175px;
 	padding-right:75px;
+	position: relative; 
 }
 
 #div2
